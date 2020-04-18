@@ -48,7 +48,7 @@ def jalan(z):
 
 #### LOGO ####
 logo = """
-                      '\033[1;46m'Salem                                          
+                      '\033[1;46m' Salem                                          
 """
 
 def tik():
